@@ -2,8 +2,6 @@
   <img src="banner.png" alt="Muzogram v2" width="100%">
 </p>
 
-<h3 align="center">🍌 <a href="https://muzogram.netlify.app">Canlı demo: muzogram.netlify.app</a></h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart">
@@ -41,7 +39,7 @@
 - **Row Level Security**: herkes sadece kendi verisini değiştirebilir, mesajları sadece gönderen ve alan görebilir
 - **Supabase Storage**: fotoğraf ve profil resimleri, kullanıcı başına klasör izolasyonu
 - **Supabase Realtime**: sayfa yenilemeden canlı mesajlaşma ve bildirim rozeti
-- **Netlify**: web sürümünün yayını (PWA, iPhone'da "Ana Ekrana Ekle" desteği)
+- **Web (PWA)**: iPhone'da "Ana Ekrana Ekle" ile uygulama gibi kullanım
 
 ```
 lib/
@@ -51,14 +49,9 @@ lib/
 └── widgets/     Gönderi kartı, avatar, logo, kullanıcı satırı
 ```
 
-## 📱 Dene
+## 🔒 Erişim
 
-- **Web / iPhone:** [muzogram.netlify.app](https://muzogram.netlify.app) adresini aç. iPhone'da Safari'de **Paylaş → Ana Ekrana Ekle** diyerek uygulama gibi kullanabilirsin.
-- **Android:** Kurulum dosyası (APK) için benimle iletişime geç.
-
-## 🔒 Kaynak kod
-
-Uygulamanın kaynak kodu özel bir depoda tutuluyor. İncelemek isteyen işverenlere ve geliştiricilere erişim verebilirim, LinkedIn üzerinden ulaşman yeterli.
+Muzogram şu an davetle kullanılan kapalı bir uygulama ve kaynak kodu özel bir depoda tutuluyor. Uygulamayı denemek ya da kodu incelemek isteyen işverenler ve geliştiriciler [LinkedIn](https://www.linkedin.com/in/mustafaakcicek) üzerinden bana ulaşabilir.
 
 ## 👨‍💻 Geliştirici
 
